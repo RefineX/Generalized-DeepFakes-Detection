@@ -20,4 +20,4 @@ Model files: [lstm_model.h5](Audio%20Deep-Fakes%20Detection/lstm_model.h5)
              [amp_plot_model.h5](Audio%20Deep-Fakes%20Detection/amp_plot_model.h5)
 
 ## 8.6 Feature Importance Analysis for Averaged Features Dataset
-Notebook used: [audio_feature_importance.ipynb]
+Notebook used: [audio_feature_importance.ipynb](Audio%20Deep-Fakes%20Detection/audio_feature_importance.ipynb)
