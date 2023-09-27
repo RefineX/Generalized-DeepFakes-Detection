@@ -1,4 +1,4 @@
-# :artificial_satellite: A Deep Learning Framework for Generalized Deep-Fakes Detection
+# :robot: A Deep Learning Framework for Generalized Deep-Fakes Detection
 
 ## :card_index_dividers: Code Repository for Final Year Project (VJTI)
 
